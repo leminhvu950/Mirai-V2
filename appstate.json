@@ -1,1 +1,74 @@
-Thay appstate của bạn vào đây :v
+[
+    {
+        "key": "dbln",
+        "value": "%7B%22100043840701068%22%3A%22gL4EkvKn%22%2C%22100056879723025%22%3A%22BsN51Rze%22%2C%22100078207896345%22%3A%226s0cFpBf%22%2C%22100047052904880%22%3A%22mUgDyTYB%22%7D",
+        "domain": "facebook.com",
+        "path": "/login/device-based/",
+        "hostOnly": false,
+        "creation": "2022-07-19T05:51:03.860Z",
+        "lastAccessed": "2022-07-19T05:51:03.860Z"
+    },
+    {
+        "key": "sb",
+        "value": "nyDJYcnpe23zjkCmyRJAYiX0",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-07-19T05:51:03.860Z",
+        "lastAccessed": "2022-07-19T05:51:03.860Z"
+    },
+    {
+        "key": "datr",
+        "value": "GMq1Yojlg36XK2YQLwUUvT0b",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-07-19T05:51:03.860Z",
+        "lastAccessed": "2022-07-19T05:51:03.860Z"
+    },
+    {
+        "key": "wd",
+        "value": "1322x651",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-07-19T05:51:03.860Z",
+        "lastAccessed": "2022-07-19T05:51:03.860Z"
+    },
+    {
+        "key": "locale",
+        "value": "vi_VN",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-07-19T05:51:03.860Z",
+        "lastAccessed": "2022-07-19T05:51:03.860Z"
+    },
+    {
+        "key": "c_user",
+        "value": "100047052904880",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-07-19T05:51:03.860Z",
+        "lastAccessed": "2022-07-19T05:51:03.860Z"
+    },
+    {
+        "key": "xs",
+        "value": "16%3A9oc39Rldouhz6A%3A2%3A1658209810%3A-1%3A6181",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-07-19T05:51:03.860Z",
+        "lastAccessed": "2022-07-19T05:51:03.860Z"
+    },
+    {
+        "key": "fr",
+        "value": "0TwZ4rZT05zuSPCwU.AWV8RbjHT-T5wd6VLQYZCQmd73o.Bi1kBF.CY.AAA.0.0.Bi1kY_.AWWA6ra0WiI",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2022-07-19T05:51:03.860Z",
+        "lastAccessed": "2022-07-19T05:51:03.860Z"
+    }
+]
